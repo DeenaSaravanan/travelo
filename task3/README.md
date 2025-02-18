@@ -1,16 +1,16 @@
-# task3
+This Flutter project demonstrates a basic authentication system using Riverpod for state management and Hive for local storage. The app allows users to sign up, sign in, and persist their session locally.
 
-A new Flutter project.
+# Features
+Sign-up and Sign-in functionality using Riverpod for state management.
+Hive for local storage to persist user data such as username and authentication token.
+State management with Riverpod to handle the user authentication status.
+Basic UI to interact with the authentication system.
 
-## Getting Started
+# Technologies Used
+Flutter: The cross-platform framework for building the app.
+Riverpod: State management for managing authentication state.
+Hive: Local storage solution to persist user data locally.
+Dart: Programming language used to build the app
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# App Link
+https://drive.google.com/file/d/1cpVVaIxxFJtyV-cV3HxnWZFFcp_kn_dk/view?usp=sharing
